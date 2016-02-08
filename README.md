@@ -2,7 +2,7 @@ Kaomoji Generator with Reccurent Neural Network
 ==========
 
 ## What's this? ##
-A auto Kaomoji generator, which learns existing Kaomojis with Reccurent Neural Network (RNN) and is implemented by employing only primitive `numpy` functions.
+An auto Kaomoji generator, which learns existing Kaomojis with Reccurent Neural Network (RNN) and is implemented by employing only primitive `numpy` functions.
 
 ## Requirement ##
 ### Python environment ###
